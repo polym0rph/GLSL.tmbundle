@@ -11,32 +11,17 @@
 	<string>/\*\*|\{\s*$</string>
 	<key>foldingStopMarker</key>
 	<string>\*\*/|^\s*\}</string>
+	<key>keyEquivalent</key>
+	<string>^~G</string>
 	<key>name</key>
 	<string>GLSL</string>
 	<key>patterns</key>
 	<array>
 		<dict>
 			<key>match</key>
-			<string>\b(if|while|for|return)\b</string>
+			<string>\b(void|bool|int|uint|float|vec2|vec3|vec4)\b</string>
 			<key>name</key>
-			<string>keyword.control.untitled</string>
-		</dict>
-		<dict>
-			<key>begin</key>
-			<string>"</string>
-			<key>end</key>
-			<string>"</string>
-			<key>name</key>
-			<string>string.quoted.double.untitled</string>
-			<key>patterns</key>
-			<array>
-				<dict>
-					<key>match</key>
-					<string>\\.</string>
-					<key>name</key>
-					<string>constant.character.escape.untitled</string>
-				</dict>
-			</array>
+			<string>storage.type.glsl</string>
 		</dict>
 	</array>
 	<key>scopeName</key>
