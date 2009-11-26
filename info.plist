@@ -4,6 +4,11 @@
 <dict>
 	<key>name</key>
 	<string>GLSL</string>
+	<key>ordering</key>
+	<array>
+		<string>D0FD1B52-F137-4FBA-A148-B8A893CD948C</string>
+		<string>AFB74A85-DE9F-4775-843D-435BBA100649</string>
+	</array>
 	<key>uuid</key>
 	<string>19A2247A-9DDE-40FD-8247-965E503A062B</string>
 </dict>
