@@ -5,9 +5,21 @@
 	<key>mainMenu</key>
 	<dict>
 		<key>items</key>
-		<array/>
+		<array>
+			<string>E66E7621-ECC8-4DA1-90E6-3D572B8A1CA1</string>
+		</array>
 		<key>submenus</key>
-		<dict/>
+		<dict>
+			<key>E66E7621-ECC8-4DA1-90E6-3D572B8A1CA1</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>BDD1E438-9667-43A3-B6CB-1CF3BA7C368F</string>
+				</array>
+				<key>name</key>
+				<string>Declarations</string>
+			</dict>
+		</dict>
 	</dict>
 	<key>name</key>
 	<string>GLSL</string>
