@@ -69,7 +69,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(const|attribute|uniform|varying|invariant|centroid|in|out|inout)\b</string>
+			<string>\b(attribute|centroid|const|flat|in|inout|invariant|noperspective|out|smooth|uniform|varying)\b</string>
 			<key>name</key>
 			<string>storage.modifier.glsl</string>
 		</dict>
