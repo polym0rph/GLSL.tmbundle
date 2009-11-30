@@ -14,7 +14,9 @@
 			<key>68F6E724-3437-4601-B85E-8CA1FD1805BF</key>
 			<dict>
 				<key>items</key>
-				<array/>
+				<array>
+					<string>E750B2B7-E563-4456-ADBD-CA93CE294DCA</string>
+				</array>
 				<key>name</key>
 				<string>Idioms</string>
 			</dict>
@@ -23,6 +25,7 @@
 				<key>items</key>
 				<array>
 					<string>07F515BE-28BC-487C-BA11-E5A1F5737557</string>
+					<string>6A5465BF-F7A3-43C7-9AB7-3FAA21AFE7CB</string>
 					<string>------------------------------------</string>
 					<string>CF9F64C7-81CD-4900-A498-4038C548889A</string>
 					<string>139D84C0-7A36-4EC2-91CE-793142FCA2F6</string>
