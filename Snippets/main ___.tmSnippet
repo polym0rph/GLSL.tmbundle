@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>while (${1:/* condition */})
+	<string>void main()
 {
 	${0:/* code */}
 }</string>
 	<key>name</key>
-	<string>while ...</string>
+	<string>main ...</string>
 	<key>scope</key>
 	<string>source.glsl</string>
 	<key>tabTrigger</key>
-	<string>while</string>
+	<string>main</string>
 	<key>uuid</key>
-	<string>484F7D94-F4C7-4475-A9E8-1E998FC41EEB</string>
+	<string>E750B2B7-E563-4456-ADBD-CA93CE294DCA</string>
 </dict>
 </plist>

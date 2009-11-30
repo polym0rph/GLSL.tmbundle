@@ -7,9 +7,17 @@
 		<key>items</key>
 		<array>
 			<string>E66E7621-ECC8-4DA1-90E6-3D572B8A1CA1</string>
+			<string>68F6E724-3437-4601-B85E-8CA1FD1805BF</string>
 		</array>
 		<key>submenus</key>
 		<dict>
+			<key>68F6E724-3437-4601-B85E-8CA1FD1805BF</key>
+			<dict>
+				<key>items</key>
+				<array/>
+				<key>name</key>
+				<string>Idioms</string>
+			</dict>
 			<key>E66E7621-ECC8-4DA1-90E6-3D572B8A1CA1</key>
 			<dict>
 				<key>items</key>
