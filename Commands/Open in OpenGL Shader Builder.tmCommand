@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>#!/bin/bash
+
+osascript -e \
+"tell app \"OpenGL Shader Builder\"
+	activate
+	open \"$TM_FILEPATH\"
+end tell"</string>
+	<key>input</key>
+	<string>none</string>
+	<key>keyEquivalent</key>
+	<string>^@O</string>
+	<key>name</key>
+	<string>Open in OpenGL Shader Builder</string>
+	<key>output</key>
+	<string>discard</string>
+	<key>scope</key>
+	<string>source.glsl</string>
+	<key>uuid</key>
+	<string>4CE10D4A-AA23-44B8-9F4B-18910F9C8E23</string>
+</dict>
+</plist>

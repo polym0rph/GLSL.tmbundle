@@ -6,6 +6,8 @@
 	<array>
 		<string>vs</string>
 		<string>fs</string>
+		<string>vert</string>
+		<string>frag</string>
 	</array>
 	<key>foldingStartMarker</key>
 	<string>/\*\*|\{\s*$</string>
