@@ -6,6 +6,10 @@
 	<array>
 		<string>vs</string>
 		<string>fs</string>
+		<string>vsh</string>
+		<string>fsh</string>
+		<string>vshader</string>
+		<string>fshader</string>
 		<string>vert</string>
 		<string>frag</string>
 	</array>
